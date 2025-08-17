@@ -1,0 +1,3 @@
+[submodule "nested-repo"]
+	path = nested-repo
+	url = https://github.com/donny444/other-repo.git
